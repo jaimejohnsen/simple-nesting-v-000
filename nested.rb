@@ -16,7 +16,8 @@ def hopper
         }
      }
 
-hopper[:grace_hopper]
+key = hopper[:grace_hopper]
+key
 end
 
 def alan_kay_is_known_for
