@@ -1,4 +1,4 @@
-
+require "pry"
 def hopper
 	programmer_hash =
  		{
@@ -65,7 +65,7 @@ def adding_matz
 #   :known_for => "Ruby",
 #    :languages => ["LISP", "C"]
 # }
-require "pry"
+
 	programmer_hash =
  		{
         :grace_hopper => {
